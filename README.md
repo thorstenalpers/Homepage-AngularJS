@@ -1,4 +1,4 @@
-# thorstenalpers.github.io
+# Homepage-AngularJS
 
 This is a fork of old my asp.net razor page application. At first I hosted the app on Azure, after the first bill I decided to move to github.io.
 The difference is that this contains just static files.
